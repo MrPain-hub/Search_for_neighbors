@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from annoy import AnnoyIndex
-from icecream import ic
 """
 Импорт входных данных
 """
