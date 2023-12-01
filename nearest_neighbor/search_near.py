@@ -4,7 +4,7 @@ from annoy import AnnoyIndex
 """
 Импорт входных данных
 """
-from nearest_neighbor.read_dataset import sett_np, stress_np, u_np, sig_np
+from read_dataset import sett_np, stress_np, u_np, sig_np
 """
 Создание пространства
 """
